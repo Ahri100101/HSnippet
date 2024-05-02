@@ -7,7 +7,14 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "code": "Fira Code"
+        "code": "Fira Code",
+      },
+      colors: {
+        "light": "#B6B7BB",
+        "dark": "#535355",
+        "darker": "#212121",
+        "lightb": "#61A7FF",
+        "darkb": "#121A2C",
       },
     },
   },
